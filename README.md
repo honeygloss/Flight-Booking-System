@@ -1,7 +1,7 @@
 # honeygloss.README
 
 //this code is written by:
-1. fatin humaira
-2. aisyah maisarah
-3. nur adlina sakinah
-4. maisarah
+1. fatin humaira (UserRegistration)
+2. aisyah maisarah (FlightPage)
+3. nur adlina sakinah (Ticket)
+4. maisarah (Ticket)
